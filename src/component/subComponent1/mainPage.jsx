@@ -1,6 +1,6 @@
 import { useState } from "react";
-import LogInForm from "./logInForm";
-import StartPage from "./stsrtPage";
+import LogInForm from "../subComponent1/logInForm";
+import StartPage from "../subComponent1/stsrtPage";
 
 const MainPage = () => {
 	const [isLogin, setIsLogin] = useState(null);

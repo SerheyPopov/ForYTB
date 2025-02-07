@@ -1,4 +1,4 @@
-import fb3 from "./image/dev_hawks_done-04.png";
+import fb3 from "../image/dev_hawks_done-04.png";
 
 const StartPage = ({ catName }) => {
 	return (
